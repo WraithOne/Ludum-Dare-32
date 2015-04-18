@@ -5,7 +5,7 @@ Smash the Bugs with the Paperball before they enter
 the hole in the middle. To move it, hold down the left mousebutton/tap on the ball.
 
 
-Try it @ dark-abyss.net/Games/LD32/index.html
+Try it @ http://www.dark-abyss.net/Games/LD32/index.html
 
 
 Made with:
